@@ -4,6 +4,7 @@ public class Dept {
 	
 	String aaa;
 	String bbb;
+	String ccc;
 	
 	
 	public static void main(String[] args) {
